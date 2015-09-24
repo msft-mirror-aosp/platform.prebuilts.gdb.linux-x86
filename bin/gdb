@@ -1,0 +1,3 @@
+#!/bin/bash
+GDBDIR=$(dirname $(readlink -f $0))
+PYTHONHOME="$GDBDIR/.." "$GDBDIR/gdb-orig" "$@"

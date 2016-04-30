@@ -1,4 +1,4 @@
-/* Generated automatically from /usr/local/google/buildbot/repo_clients/https___android.googlesource.com_a_platform_manifest.git/master-ndk/toolchain/python/Python-2.7.5/Modules/config.c.in by makesetup. */
+/* Generated automatically from /usr/local/google/buildbot/src/android/master-ndk/toolchain/python/Python-2.7.5/Modules/config.c.in by makesetup. */
 /* -*- C -*- ***********************************************
 Copyright (c) 2000, BeOpen.com.
 Copyright (c) 1995-2000, Corporation for National Research Initiatives.

@@ -1,4 +1,4 @@
-prefix=/usr/local/google/buildbot/src/android/master-ndk/out/linux/python/linux-x86_64/install/host-tools
+prefix=/usr/local/google/buildbot/src/android/master-ndk/out/build/buildhost/linux-x86_64/install/host-tools
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
